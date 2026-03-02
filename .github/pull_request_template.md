@@ -11,7 +11,7 @@
 시냅스 노트
 
 ### 배포 링크
-https://gemini.google.com/share/78ccc90799a8
+https://gemini.google.com/share/386da81b85c0
 
 ### 이 앱을 만든 이유
 
