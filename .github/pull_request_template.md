@@ -53,7 +53,7 @@ https://gemini.google.com/share/78ccc90799a8
 knockBackBrawl
 
 ### 배포 링크
-https://gemini.google.com/share/089f0fbed60a
+https://gemini.google.com/share/fcc40429faae
 
 ### 이 앱을 만든 이유
 
