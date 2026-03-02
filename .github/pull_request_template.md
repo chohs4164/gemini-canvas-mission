@@ -99,7 +99,7 @@ https://gemini.google.com/share/fcc40429faae
 안드로메다 말고 안드로이드
 
 ### 배포 링크
-https://gemini.google.com/share/90b9c2120475
+https://gemini.google.com/share/59583b883883
 
 ### 이 앱을 만든 이유
 - 어떤 문제/불편함을 해결하려고 했나요?
