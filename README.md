@@ -12,21 +12,21 @@ Gemini Canvas 미션 결과물을 관리하는 저장소입니다.
 ## ✅ 최종 제출 결과물
 
 ### 💻 1. 유틸리티 앱: 시냅스 노트 (Synapse Note)
-* **배포 링크**: [바로가기](https://gemini.google.com/share/78ccc90799a8)
+* **배포 링크**: [바로가기](https://gemini.google.com/share/386da81b85c0)
 * **소개**: 흩어진 메모를 색상, 태그, 날짜 필터링을 통해 체계적으로 관리하는 지능형 메모장입니다.
 * **핵심 기능**: 대시보드 성취율 확인, 아이디어 보관함 필터링, 습관 트래커, 다크 모드 지원.
 
 ### 🎮 2. 게임: knockBackBrawl
-* **배포 링크**: [바로가기](https://gemini.google.com/share/089f0fbed60a)
+* **배포 링크**: [바로가기](https://gemini.google.com/share/c8c26ff03cd3)
 * **소개**: 1인/2인 대전이 가능한 액션 게임으로, 플레이어를 추적하는 AI 봇과 다이내믹 줌 기능을 탑재했습니다.
 * **AI 기능**: 현재 플레이어 위치를 분석하여 공격 및 이동을 수행하는 AI 캐릭터 구현.
 
 ### 📚 3. 학습 앱: 안드로메다 말고 안드로이드
-* **배포 링크**: [바로가기](https://gemini.google.com/share/90b9c2120475)
+* **배포 링크**: [바로가기](https://gemini.google.com/share/59583b883883)
 * **소개**: 안드로이드 핵심 개념(Kotlin, MVVM 등)을 체계화하고 자가 진단 퀴즈를 제공하는 학습 도구입니다.
 * **핵심 기능**: 4단계 단계별 커리큘럼, Material Design 3 분석, 인터랙티브 퀴즈 시스템.
 
-### 🤝 4. 페어 릴레이 앱: 회고 AI 코치 (@eungyeong12)
+### 🤝 4. 페어 릴레이 앱: 회고 AI 코치 (with @eungyeong12)
 * **배포 링크**: [바로가기](https://gemini.google.com/share/21e7f1f19a0f)
 * **소개**: STAR 기법을 활용해 피상적인 회고를 심층적인 성장 기록으로 전환해주는 AI 코칭 서비스입니다.
 * **AI 기능**: `gemini-2.5-flash` 모델 기반 멀티턴 대화 코칭 및 인사이트 분석.
